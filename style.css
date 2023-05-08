@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.button1{
+    
+    text-align: center;
+}
+h1{
+    background-color: rgb(101, 134, 166);
+    text-align: center;
+    padding: 30px;
+}
+p{
+    text-align: center;
+    padding: 30px;
+}
